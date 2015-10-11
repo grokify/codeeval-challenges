@@ -31,7 +31,7 @@ Jeffery Lebowski,Walter Sobchak,Theodore Donald Kerabatsos,Peter Gibbons,Michael
 Jareau Wade,Rob Eroh,Mahmoud Abdelkader,Wenyi Cai,Justin Van Winkle,Gabriel Sinkin,Aaron Adelson;Batman No. 1,Football - Official Size,Bass Amplifying Headphones,Elephant food - 1024 lbs,Three Wolf One Moon T-shirt,Dom Perignon 2000 Vintage
 ```
 
-# OUTPUT SAMPLE
+## OUTPUT SAMPLE
 
 For each line of input, print out the maximum total score to two decimal places. For the example input above, the output should look like this:
 
