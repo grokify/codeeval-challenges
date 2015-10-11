@@ -1,6 +1,9 @@
 #!python
 '''
 
+Author: John Wang 
+License: MIT
+
 Reference: http://codeeval.com/public_sc/48/
 
 CLI Usage:
